@@ -25,7 +25,8 @@ A web application for managing and analyzing data stored in Excel files.
    ```
 2. Open your browser and navigate to http://localhost:5000
 3. The application will automatically create a sample Excel file (data.xlsx) on first run
-
+user name :admin
+password : password123
 ## Project Structure
 
 - `app.py`: Flask backend with API endpoints
